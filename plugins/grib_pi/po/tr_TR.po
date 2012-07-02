@@ -64,7 +64,7 @@ msgstr ""
 "\n"
 "Desteklenen GRIB dosya türleri:\n"
 "- Rüzgar yönü ve hızı\n"
-"- Belirin dalga yüksekliği\n"
+"- Belirgin dalga yüksekliği\n"
 "- Deniz yüzey suyu sıcaklığı\n"
 "- Yüzey akıntılarının yönü ve hızı."
 
@@ -78,25 +78,25 @@ msgstr "GRIB"
 #
 #
 msgid "Please Zoom or Scale Out to view suppressed CRAIN GRIB"
-msgstr "Zur Anzeige der ausgeblendeten CRAIN GRIB-Daten bitte herauszoom oder Maßstab verkleinern."
+msgstr "Sıkıştırılmış CRAIN GRIB verilerini görmek için yakınlaştırın yada uzaklaştırın."
 
 #
 #
 #
 msgid "Please Zoom or Scale Out to view suppressed HTSGW GRIB"
-msgstr "Zur Anzeige der ausgeblendeten HTSGW GRIB-Daten bitte herauszoom oder Maßstab verkleinern."
+msgstr "Sıkıştırılmış HTSGW GRIB verilerini görmek için yakınlaştırın ya da ozaklaştırın."
 
 #
 #
 #
 msgid "Please Zoom or Scale Out to view suppressed OCEAN CURRENT GRIB"
-msgstr "Zur Anzeige der ausgeblendeten GRIB Ozean-Strömung bitte herauszoom oder Maßstab verkleinern."
+msgstr "Sıkıştırılmış OKYANUS AKINTI GRIB verişerini görmek için yakınlaştırın ya da uzaklaştırın."
 
 #
 #
 #
 msgid "Please Zoom or Scale Out to view suppressed SEATEMP GRIB"
-msgstr "Zur Anzeige der ausgeblendeten GRIB Wassertemperatur bitte herauszoom oder Maßstab verkleinern."
+msgstr "Sıkıştırılmış DENİZ SUYU SICAKLIK GRIB verilerini görmek için yakınlaştırın ya da uzaklaştırın."
 
 #
 #
